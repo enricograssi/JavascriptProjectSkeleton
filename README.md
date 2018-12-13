@@ -2,16 +2,16 @@
 
 ## Titolo progetto 
 
-Ogni gruppo definisce un titolo progetto (< 100 caratteri) e una descrizione( <500 caratteri)
+Search music on Spotify
 
 ## Partecipanti
-Elenco partecipanti
+Grassi Enrico, Ruggeri Nicola, Brunelli Lorenzo.
 
 ## Ruoli
 
-* PROJECT_MANAGER = 
-* DOCUMENTAZIONE = 
-* CSS = 
+* PROJECT_MANAGER = Grassi Enrico
+* DOCUMENTAZIONE = Ruggeri Nicola
+* CSS = Brunelli Lorenzo
 
 ## Regolamento
 * Ogni gruppo consegnerà il link ad un repository GIT che sarà un fork di questo progetto.
